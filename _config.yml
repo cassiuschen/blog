@@ -1,12 +1,12 @@
 inc:
   # Blog Information
-  title:        "Cassius Chen"
-  subtitle:     "Web Developer / Photographer / Designer"
+  title:        "陈小紫 | Cassius Chen"
+  subtitle:     "Ruby工程师 / 摄影设计爱好者."
   cover_image:  cover.jpg
   logo:         logo.png
 
   # Company information
-  company:      Luca Guidi
+  company:      Cassius Chen
   url:          http://blog.cassiuschen.me/
   facebook:     cassius.chen
   twitter:      CassiusChen
@@ -63,7 +63,7 @@ excerpt_separator: "<!-- more -->"
 safe:        false
 host:        0.0.0.0
 port:        4000
-baseurl:     /
+baseurl:     /blog/
 lsi:         false
 
 maruku:
@@ -103,7 +103,7 @@ redcloth:
 #
 assets:
   dirname: assets
-  baseurl: /blog/assets/
+  baseurl: /assets/
   sources:
     - _assets/javascripts
     - _assets/stylesheets

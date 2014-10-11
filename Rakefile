@@ -52,9 +52,9 @@ tags: programming
 excerpt: ""
 
 author:
-  name: Cassius Chen
+  name: 陈小紫 Cassius Chen
   twitter: cassiuschen
-  bio: Developer, Photographer, Designer.
+  bio: Ruby工程师，摄影设计爱好者.
   image: lg.png
 ---
 
