@@ -30,7 +30,7 @@ inc:
 
   # Google Fonts
   # eg. 'Droid+Sans:400,700|Droid+Serif:400,700'
-  google_font: 'Lato:400,900'
+  #google_font: 'Lato:400,900'
 
 url:         http://blog.cassiuschen.me
 domain:      cassiuschen.me
@@ -103,7 +103,7 @@ redcloth:
 #
 assets:
   dirname: assets
-  baseurl: /assets/
+  baseurl: /blog/assets/
   sources:
     - _assets/javascripts
     - _assets/stylesheets
