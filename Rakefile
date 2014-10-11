@@ -5,7 +5,7 @@ require "bundler/setup"
 require "jekyll"
 
 
-GITHUB_REPONAME = "jodosha/jodosha.github.io"
+GITHUB_REPONAME = "cassiuschen/blog"
 
 
 namespace :site do
@@ -52,9 +52,9 @@ tags: programming
 excerpt: ""
 
 author:
-  name: Luca Guidi
-  twitter: jodosha
-  bio: Developer, music connisseur and avid tea lover.
+  name: Cassius Chen
+  twitter: cassiuschen
+  bio: Developer, Photographer, Designer.
   image: lg.png
 ---
 
