@@ -3,7 +3,7 @@ layout: post
 
 title: "养花记"
 cover_image: introducing-lotus-model.jpg
-cover_copyright: 'Photo Credit: <a href="http://lcweb2.loc.gov/diglib/ihas/loc.natlib.gottlieb.07791/default.html">William P Gottlieb</a> via <a href="http://en.wikipedia.org/wiki/File:Frank_Sinatra_by_Gottlieb_c1947-_2.jpg">Wikimedia Commons</a>'
+cover_copyright: ''
 tags: essay
 
 excerpt: >
@@ -11,9 +11,9 @@ excerpt: >
 
 
 author:
-  name: Cassius Chen
-  twitter: jodosha
-  bio: Developer, music connisseur and avid tea lover.
+  name: 陈小紫 Cassius Chen
+  twitter: cassiuschen
+  bio: Ruby工程师，摄影设计爱好者.
   image: lg.png
 ---
   正值冬日，古人云“冬令进补,春天打虎”，对于我来说，度过这遭冬日，待到春日来临，便是高考之时，于是冬日的“进补”尤为重要。在食堂后那僻静的道旁，寻得一幽静之处，扫清尘灰，收拾妥当，便是一间属于我静谧的小屋，在当中休憩读书，自在无比。只是人烟稀疏，不免少了一分生气。曾想养一活物与我玩耍，但担心无法尽心照料，便买了些花种花球，捎上三两亮色花盆，于树坑挖些土石在小屋养起了花。
